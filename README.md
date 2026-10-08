@@ -12,7 +12,10 @@ The method rests on seven rules (*kaideler*): talk before building,
 single-variable experiments, fair-comparison budgets, measure don't infer,
 keep real records, report conflicts, and cost-gate long runs — anchored by a
 noise-floor protocol (≥3 seeds before any headline claim) and freeze rules
-for measured mechanisms. (The skill body is written in Turkish.)
+for measured mechanisms.
+
+**Language:** `SKILL.md` (the canonical distribution copy) is in English; the
+original Turkish text is preserved verbatim in [`SKILL.tr.md`](SKILL.tr.md).
 
 ## What it's for
 
@@ -48,9 +51,10 @@ have the agent follow the discipline.
 
 ## Contents
 
-- `SKILL.md` — the full skill: when to use, the seven rules, noise floor &
-  freezing, decision ledger + mutation receipts, session ritual, pitfalls,
-  verification checklist
+- `SKILL.md` — the full skill (English, canonical): when to use, the seven
+  rules, noise floor & freezing, decision ledger + mutation receipts, session
+  ritual, pitfalls, verification checklist
+- `SKILL.tr.md` — the original Turkish text, preserved verbatim
 - `LICENSE` — MIT
 
 ## License
